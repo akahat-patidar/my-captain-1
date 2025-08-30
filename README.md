@@ -1,2 +1,2 @@
 # my-captain-1
-Hello world n
+printf("HELLO,World")
